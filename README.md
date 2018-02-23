@@ -1,5 +1,5 @@
-# This is Zhiren Chen with Lab 5 assignment
-
+ This is Zhiren Chen with Lab 5 assignment
+Partner :ZhengwuYuan
 
 And sometimes I know I am having a feeling
 but I don’t want to have a feeling so I close up
