@@ -1,5 +1,5 @@
-# This is Zhiren Chen with Lab 5 assignment
-
+ This i Zhiren Chen with Lab 5 assignment
+#This might cause merge confilct
 
 And sometimes I know I am having a feeling
 but I don’t want to have a feeling so I close up
