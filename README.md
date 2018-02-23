@@ -1,8 +1,8 @@
-<<<<<< HEAD
+
 
 This is Zhiren Chen with Lab 5 assignment
 Partner :ZhengwuYuan
->>>>>>> fd6e52f9061e69b2b2c57fef2b5d9598ccd1438d
+
 
 And sometimes I know I am having a feeling
 but I don’t want to have a feeling so I close up
